@@ -1,0 +1,17 @@
+{ 
+    "slide":{
+            "slideContents": [
+                { "imgUrl": "img/fast-web-hosting-servers.jpg", "title": "Hosting Your Website", "content": "Host your website using our hosting services with fair pricing and support services.", "link": "" },
+                { "imgUrl": "img/_94915910_08_ethiopia_retuers2.jpg", "title": "Let Us Build Your Website", "content": "We design modern and responsive websites that are fast,polished and fits our customer needs.", "link": ""},
+                { "imgUrl": "img/_95292670_boristhejogger.jpg", "title": "Readsigning Web Sites", "content": "Does your website look old and stuck well will also help fix that by redsigning your web site to be reachble from any device" , "link": ""},
+                { "imgUrl": "img/_95720390_531e00d9-da3a-4cc5-819c-1847e66729cb.jpg", "title": "Host Your Website", "content": "", "link": "" }
+            ]
+
+    },
+    "hostingPrice":[
+          { "plan": "Starter Plan", "price": "1,600 ETB ", "storage": "5 GB Storage", "bandwidth":"50 GB Bandwidth", "email": "5 x Email Address", "database": "5 x Databases", "domain": "Free Domain*"},
+          { "plan": "Basic Plan", "price": "2,500 ETB","storage": "10 GB Storage", "bandwidth":"100 GB Bandwidth", "email": "10 x Email Address", "database": "10 x Databases", "domain": "Free Domain*"},
+          { "plan": "Standard Plan", "price": "5,000 ETB", "storage": "25 GB Storage", "bandwidth":"250 GB Bandwidth", "email": "Unlimited Email Address", "database": "Unlimited Databases", "domain": "Free Domain*"},
+          { "plan": "Pro Hosting", "price":"7,000 ETB","storage": "50 GB Storage", "bandwidth":"500 GB Bandwidth", "email":"Unlimited Email Address", "database": "Unlimited Databases", "domain": "Free Domain*"}
+    ]
+}
